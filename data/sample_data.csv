@@ -1,0 +1,71 @@
+plot_id,study_site,plot_location,age_class,fallow_years,stems_ha,basal_area_m2_ha,agb_mg_ha,agc_mg_ha
+P001,KHFR,Reserve interior,control,60,382,29.67,282.27,132.67
+P002,KHFR,Reserve interior,control,60,285,29.89,332.67,156.36
+P003,KHFR,Reserve interior,control,60,374,29.22,310.65,146.0
+P004,KHFR,Reserve interior,control,60,471,31.62,297.75,139.94
+P005,KHFR,Reserve interior,control,60,338,31.03,329.97,155.09
+P006,KHFR,Reserve interior,control,60,481,31.68,230.4,108.29
+P007,KHFR,Reserve interior,control,60,427,29.99,293.33,137.87
+P008,KHFR,Reserve interior,control,60,424,29.0,204.26,96.0
+P009,KHFR,Reserve interior,control,60,416,29.34,342.88,161.16
+P010,KHFR,Reserve interior,control,60,312,34.26,305.64,143.65
+P011,KHFR_surroundings,Community fallow land,farmbush,3,197,1.44,2.71,1.28
+P012,KHFR_surroundings,Community fallow land,young_secondary,6,676,7.39,10.88,5.12
+P013,KHFR_surroundings,Community fallow land,old_secondary,10,590,13.73,47.43,22.29
+P014,KHFR_surroundings,Community fallow land,farmbush,3,395,2.72,1.21,0.57
+P015,KHFR_surroundings,Community fallow land,young_secondary,5,650,11.38,14.11,6.63
+P016,KHFR_surroundings,Community fallow land,old_secondary,11,555,20.27,43.96,20.66
+P017,KHFR_surroundings,Community fallow land,farmbush,4,380,2.15,1.57,0.74
+P018,KHFR_surroundings,Community fallow land,young_secondary,7,836,8.92,15.83,7.44
+P019,KHFR_surroundings,Community fallow land,old_secondary,13,583,14.15,31.02,14.58
+P020,KHFR_surroundings,Community fallow land,farmbush,3,491,3.26,3.53,1.66
+P021,KHFR_surroundings,Community fallow land,young_secondary,8,423,9.28,19.97,9.39
+P022,KHFR_surroundings,Community fallow land,old_secondary,11,372,21.34,34.2,16.07
+P023,KHFR_surroundings,Community fallow land,farmbush,3,393,3.03,2.2,1.04
+P024,KHFR_surroundings,Community fallow land,young_secondary,5,835,10.84,16.83,7.91
+P025,KHFR_surroundings,Community fallow land,old_secondary,10,456,15.87,46.94,22.06
+P026,KHFR_surroundings,Community fallow land,farmbush,3,371,3.66,1.37,0.65
+P027,KHFR_surroundings,Community fallow land,young_secondary,7,500,11.22,13.28,6.24
+P028,KHFR_surroundings,Community fallow land,old_secondary,10,407,11.56,36.84,17.31
+P029,KHFR_surroundings,Community fallow land,farmbush,4,521,3.17,1.63,0.76
+P030,KHFR_surroundings,Community fallow land,young_secondary,8,598,10.1,13.51,6.35
+P031,KHFR_surroundings,Community fallow land,old_secondary,12,536,21.13,52.09,24.48
+P032,KHFR_surroundings,Community fallow land,farmbush,3,452,3.61,1.2,0.57
+P033,KHFR_surroundings,Community fallow land,young_secondary,5,794,9.43,19.08,8.97
+P034,KHFR_surroundings,Community fallow land,old_secondary,10,520,23.58,36.11,16.97
+P035,KHFR_surroundings,Community fallow land,farmbush,3,407,1.78,1.68,0.79
+P036,KHFR_surroundings,Community fallow land,young_secondary,5,655,11.38,19.96,9.38
+P037,KHFR_surroundings,Community fallow land,old_secondary,10,562,20.49,13.8,6.49
+P038,KHFR_surroundings,Community fallow land,farmbush,4,419,2.24,1.64,0.77
+P039,KHFR_surroundings,Community fallow land,young_secondary,8,532,7.07,21.3,10.01
+P040,KHFR_surroundings,Community fallow land,old_secondary,15,475,16.44,55.15,25.92
+P041,BHFR_surroundings,Community fallow land,farmbush,3,438,1.68,2.26,1.06
+P042,BHFR_surroundings,Community fallow land,young_secondary,6,580,11.54,8.19,3.85
+P043,BHFR_surroundings,Community fallow land,old_secondary,10,639,18.98,65.35,30.71
+P044,BHFR_surroundings,Community fallow land,farmbush,3,447,2.69,0.92,0.43
+P045,BHFR_surroundings,Community fallow land,young_secondary,6,688,5.63,21.4,10.06
+P046,BHFR_surroundings,Community fallow land,old_secondary,12,577,23.37,46.63,21.92
+P047,BHFR_surroundings,Community fallow land,farmbush,2,313,2.33,2.22,1.04
+P048,BHFR_surroundings,Community fallow land,young_secondary,6,802,9.06,14.47,6.8
+P049,BHFR_surroundings,Community fallow land,old_secondary,12,360,19.12,33.32,15.66
+P050,BHFR_surroundings,Community fallow land,farmbush,3,490,3.04,1.79,0.84
+P051,BHFR_surroundings,Community fallow land,young_secondary,7,457,9.4,20.07,9.43
+P052,BHFR_surroundings,Community fallow land,old_secondary,12,556,19.81,45.15,21.22
+P053,BHFR_surroundings,Community fallow land,farmbush,3,427,3.82,1.5,0.7
+P054,BHFR_surroundings,Community fallow land,young_secondary,6,647,12.43,16.72,7.86
+P055,BHFR_surroundings,Community fallow land,old_secondary,10,533,25.53,43.26,20.33
+P056,BHFR_surroundings,Community fallow land,farmbush,2,546,2.9,1.89,0.89
+P057,BHFR_surroundings,Community fallow land,young_secondary,7,711,10.69,14.13,6.64
+P058,BHFR_surroundings,Community fallow land,old_secondary,16,538,11.96,34.41,16.17
+P059,BHFR_surroundings,Community fallow land,farmbush,4,494,2.25,2.39,1.12
+P060,BHFR_surroundings,Community fallow land,young_secondary,7,637,7.21,16.31,7.67
+P061,BHFR_surroundings,Community fallow land,old_secondary,13,553,12.81,37.92,17.82
+P062,BHFR_surroundings,Community fallow land,farmbush,2,464,2.13,2.13,1.0
+P063,BHFR_surroundings,Community fallow land,young_secondary,8,624,8.17,15.78,7.41
+P064,BHFR_surroundings,Community fallow land,old_secondary,15,546,15.51,51.32,24.12
+P065,BHFR_surroundings,Community fallow land,farmbush,2,261,4.84,2.17,1.02
+P066,BHFR_surroundings,Community fallow land,young_secondary,8,568,8.8,16.7,7.85
+P067,BHFR_surroundings,Community fallow land,old_secondary,11,722,17.97,61.12,28.73
+P068,BHFR_surroundings,Community fallow land,farmbush,2,378,3.12,1.75,0.82
+P069,BHFR_surroundings,Community fallow land,young_secondary,7,548,9.64,10.51,4.94
+P070,BHFR_surroundings,Community fallow land,old_secondary,15,700,10.63,42.33,19.89
